@@ -1,5 +1,5 @@
 import { graphql } from 'react-apollo'
-import gql from 'graphql-tag'
+import {gql} from 'graphql-tag'
 
 const Component = ({ data }) => (
   <span>
